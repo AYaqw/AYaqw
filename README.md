@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Hi, I'm AyA 👋</h1>
+<p  align="center">
+    <a href="https://www.linkedin.com/in/aya-abd-el-moneim-b75546221/"> 
+        <img src="https://cdn-icons-png.flaticon.com/512/1076/1076992.png?w=740" alt="logo linkedin">
+    </a>
+</p>
 
 **AYaqw/AYaqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
