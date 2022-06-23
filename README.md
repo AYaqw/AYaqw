@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm AyA 👋</h1>
 <p  align="center">
     <a href="https://twitter.com/AyAAbdElmonei11"> 
-        <img src="https://www.freepik.com/free-icon/t-icon-vector_694638.htm#query=twitter%20icon&position=1&from_view=search" alt="logo twitter" style="width:30px">
+        <img src="https://cdn-icons-png.flaticon.com/128/39/39552.png?uid=R52966343&ga=GA1.2.2080709370.1632748703" alt="logo twitter" style="width:30px">
     </a>
     <a href="https://www.linkedin.com/in/aya-abd-el-moneim-b75546221/"> 
         <img src="https://cdn-icons-png.flaticon.com/512/1076/1076992.png?w=740" alt="logo linkedin" style="width:30px">
